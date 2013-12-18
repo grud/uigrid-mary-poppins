@@ -1,1 +1,1 @@
-web: sh ./node_modules/.bin/mary-poppins start poppins.config.js
+web: ./node_modules/.bin/mary-poppins start poppins.config.js
