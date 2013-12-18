@@ -17,7 +17,7 @@ module.exports = function (poppins) {
 
     // port for poppins to listen on and URL for Github to ping
     hook: {
-      url: 'http://intense-stream-3530.herokuapp.com/',
+      url: 'http://boiling-woodland-3883.herokuapp.com/',
       port: 80
       // url: 'http://localhost',
       // port: 1234
