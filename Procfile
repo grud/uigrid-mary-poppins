@@ -1,1 +1,1 @@
-web: sh -c 'cd ./app/ && node ./node_modules/.bin/mary-poppins start poppins.config.js'
+web: node ./node_modules/.bin/mary-poppins start poppins.config.js
