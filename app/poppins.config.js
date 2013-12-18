@@ -11,8 +11,8 @@ module.exports = function (poppins) {
     // You may want to load these from a seperate file like `config-credentials.js`, and
     // add this file to your `.gitignore` list
     login: {
-      username: 'c0bra',
-      password: 'p1mpal0t'
+      username: 'grud',
+      password: process.env.GITHUB_PASS
     },
 
     // port for poppins to listen on and URL for Github to ping
