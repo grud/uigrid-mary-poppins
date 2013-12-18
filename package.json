@@ -2,6 +2,7 @@
   "name": "nggrid-mary-poppins",
   "version": "0.0.0",
   "description": "",
+  "main": "poppins.config.js",
   "dependencies": {
     "mary-poppins": "~0.2.0",
     "poppins-pr-checklist": "0.0.3",
