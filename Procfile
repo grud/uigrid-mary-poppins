@@ -1,0 +1,1 @@
+web: ./node_modules/.bin/mary-poppins start poppins.config.js

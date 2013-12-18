@@ -1,0 +1,16 @@
+{
+  "name": "nggrid-mary-poppins",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "mary-poppins": "~0.2.0",
+    "poppins-pr-checklist": "0.0.3",
+    "poppins-check-commit": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
